@@ -1,7 +1,7 @@
 # JLPS_JSFS
 Replication files for my publication on income inequality among married couples, focusing on a couple’s educational pairing and the wife’s labor market participation.
 
-There are 6 do files (+master fofile) to run the replication.
+There are 3 do files (+master fofile) to run the replication.
 
 0.Master.do - a do file that runs other do files
 
