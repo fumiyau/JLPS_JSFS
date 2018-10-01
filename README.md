@@ -19,4 +19,4 @@ I used sav file as raw data and converted it to dta format.
 
 Citation information is below. 
 
-Uchikoshi, Fumiya. 2018. “A Consequence of Assortative Mating through Changes in a Cou- ple’s Household Income: Focusing on a Couple’s Educational Pairing and the Wife’s Labor Market Participation” Japanese Journal of Family Sociology (Kazoku Syakaigaku Kenkyu), 30(1): 1-13. (in Japanese)
+Uchikoshi, Fumiya. 2018. “A Consequence of Assortative Mating through Changes in a Couple’s Household Income: Focusing on a Couple’s Educational Pairing and the Wife’s Labor Market Participation” Japanese Journal of Family Sociology (Kazoku Syakaigaku Kenkyu), 30(1): 1-13. (in Japanese)
